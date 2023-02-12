@@ -1,1 +1,2 @@
-console.log("Git is Awesome!");
+let userMessage = prompt("What is your message?");
+console.log(userMessage);
